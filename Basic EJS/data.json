@@ -1,0 +1,46 @@
+{
+    "cats":{
+        "name" : "cat",
+        "followers" : 25000,
+        "following" : 256,
+        "posts" : [
+            {
+                "image" : "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+                "likes" : 15000,
+                "comments" : 1250
+            },
+            {
+                "image" : "https://images.unsplash.com/photo-1529778873920-4da4926a72c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1936&q=80",
+                "likes" : 10000,
+                "comments" : 150
+            },
+            {
+                "image" : "https://images.unsplash.com/photo-1530991671072-ac4f81c2c3c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+                "likes" : 18000,
+                "comments" : 1590
+            }
+        ]
+    },
+    "dogs":{
+        "name" : "dogs",
+        "followers" : 40000,
+        "following" : 148,
+        "posts" : [
+            {
+                "image" : "https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1889&q=80",
+                "likes" : 25000,
+                "comments" : 1980
+            },
+            {
+                "image" : "https://images.unsplash.com/photo-1529429617124-95b109e86bb8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+                "likes" : 20000,
+                "comments" : 1150
+            },
+            {
+                "image" : "https://images.unsplash.com/photo-1560807707-8cc77767d783?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+                "likes" : 28000,
+                "comments" : 2650
+            }
+        ]
+    }
+}
